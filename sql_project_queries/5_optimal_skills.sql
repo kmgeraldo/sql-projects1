@@ -1,5 +1,5 @@
 /*
-Qn: What are the miost optimal skills to learn as a data analyst? (i.e - high demand and high paying)
+Qn5: What are the most optimal skills to learn as a data analyst? (i.e - high demand and high paying)
 */
 
 WITH skills_demand AS(
