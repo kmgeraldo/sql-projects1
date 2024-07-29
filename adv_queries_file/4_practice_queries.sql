@@ -171,4 +171,4 @@ WHERE
 ORDER BY
     quarter1_job_postings.salary_year_avg DESC;
 
-
+--
